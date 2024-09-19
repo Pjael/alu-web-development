@@ -1,0 +1,9 @@
+body {
+    display: flex
+    flex-direction: column 2
+}
+main{flex-direction:row 2 }
+main{flex: auto }
+article{flex: 2 }
+aside{flex: 1 }
+article, aside{overflow-y: auto}
