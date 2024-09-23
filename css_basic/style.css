@@ -1,6 +1,6 @@
 body {
     display: flex
-    flex-direction: column 2
+    flex-direction column 2
 }
 main{flex-direction:row 2 }
 main{flex: auto }
