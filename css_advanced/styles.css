@@ -1,0 +1,19 @@
+header {
+    text-align: center;
+}
+#header-links {
+    text-align: top left;
+}
+.header-links {
+    text-align: top right;
+}
+
+.white-f {
+    color: #FFFFFF
+}
+.Font1 {
+    font-family: 'source sans pro', sans-serif;
+}
+.background {
+    background-color: #C271FF;
+}
